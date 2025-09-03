@@ -1,4 +1,4 @@
-[
+export const monsters = [
     {
         id: 1,
         name: 'Cibran Laka',
