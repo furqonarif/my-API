@@ -1,0 +1,152 @@
+[
+    {
+        id: 1,
+        name: 'Cibran Laka',
+        username: 'Fufufafa',
+        email: 'fufufafa@termul.com'
+    },
+    {
+        id: 2,
+        name: 'Coko Ridodo',
+        username: 'Cokori',
+        email: 'raja.jawa@termul.com'
+    },
+    {
+        id: 3,
+        name: 'Praroro Curianto',
+        username: 'Roro',
+        email: 'roro.gemoy@termul.com'
+    },
+    {
+        id: 4,
+        name: 'Sir Muraini',
+        username: 'Ustadaa',
+        email: 'pajak.hunter@termul.com'
+    },
+    {
+        id: 5,
+        name: 'Ruhuu Vinsall',
+        username: 'Lord',
+        email: 'lord.ruhuu@termul.com'
+    },
+    {
+        id: 6,
+        name: 'Dubi Rai',
+        username: 'dubdub',
+        email: 'judol.master@termul.com'
+    },
+    {
+        id: 7,
+        name: 'Gema Wait',
+        username: 'Gemmy',
+        email: 'gema.wait@termul.com'
+    },
+    {
+        id: 8,
+        name: 'Suray Paul',
+        username: 'Surp',
+        email: 'suray.paul@termul.com'
+    },
+    {
+        id: 9,
+        name: 'Joel Hazz',
+        username: 'Hazzy',
+        email: 'joel.hazz@termul.com'
+    },
+    {
+        id: 10,
+        name: 'Paun Ramahani',
+        username: 'Paunz',
+        email: 'paun.ramahani@termul.com'
+    },
+    {
+        id: 11,
+        name: 'Lahbil Haladai',
+        username: 'Lahb',
+        email: 'lahbil.haladai@termul.com'
+    },
+    {
+        id: 12,
+        name: 'Muhay Moon',
+        username: 'Moonz',
+        email: 'muhay.moon@termul.com'
+    },
+    {
+        id: 13,
+        name: 'Toti Carvanain',
+        username: 'TotiC',
+        email: 'toti.carvanain@termul.com'
+    },
+    {
+        id: 14,
+        name: 'Fidel Zoan',
+        username: 'Fidz',
+        email: 'fidel.zoan@termul.com'
+    },
+    {
+        id: 15,
+        name: 'Seita Vonanto',
+        username: 'Seitz',
+        email: 'seita.vonanto@termul.com'
+    },
+    {
+        id: 16,
+        name: 'Naratuis Gipai',
+        username: 'Nara',
+        email: 'naratuis.gipai@termul.com'
+    },
+    {
+        id: 17,
+        name: 'Ronas Noeslani',
+        username: 'Ronz',
+        email: 'ronas.noeslani@termul.com'
+    },
+    {
+        id: 18,
+        name: 'Silter Vess',
+        username: 'Silvz',
+        email: 'silter.vess@termul.com'
+    },
+    {
+        id: 19,
+        name: 'Shang Khai',
+        username: 'Shangy',
+        email: 'shang.khai@termul.com'
+    },
+    {
+        id: 20,
+        name: 'Echo Patroy',
+        username: 'Echoo',
+        email: 'echo.patroy@termul.com'
+    },
+    {
+        id: 21,
+        name: 'Jacoolt Hajj',
+        username: 'Jcool',
+        email: 'jacoolt.hajj@termul.com'
+    },
+    {
+        id: 22,
+        name: 'Eda Adramdon',
+        username: 'Edan',
+        email: 'eda.adramdon@termul.com'
+    },
+    {
+        id: 23,
+        name: 'Vank Eeran',
+        username: 'Vanky',
+        email: 'vank.eeran@termul.com'
+    },
+    {
+        id: 24,
+        name: 'Langga Ear',
+        username: 'LangEar',
+        email: 'langga.ear@termul.com'
+    },
+    {
+        id: 25,
+        name: 'Yor Tedee',
+        username: 'Yoree',
+        email: 'yor.tedee@termul.com'
+    }
+]
